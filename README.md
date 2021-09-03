@@ -51,10 +51,10 @@
 ## 👑 Github Activity :
 
 <a href="https://github.com/barismalkoc">
-  <img width="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=barismalkoc&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barismalkoc&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/barismalkoc">
- <img width="350px"  align="right" src="https://github-readme-stats.vercel.app/api?username=barismalkoc&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img   align="right" src="https://github-readme-stats.vercel.app/api?username=barismalkoc&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
