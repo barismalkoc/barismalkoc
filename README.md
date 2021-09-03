@@ -7,3 +7,18 @@
 # <img src="https://thumbs.gfycat.com/ImpressiveJampackedKinglet-max-1mb.gif" height=60px> Hi, I am Barış Berke MALKOÇ.
 
 </div>
+
+
+<div>
+
+## 🤵 About Me:
+
+- 🤨 Pronouns : He/Him.  
+- 🖊  I use daily ```.java```.
+- 🌱 I am currently learning JavaScript and React.
+- 🎤 You can talk to me about books, music and movies.
+- ⚡ Fun Fact : Music , Run , Basketball ...
+  
+
+
+</div>
