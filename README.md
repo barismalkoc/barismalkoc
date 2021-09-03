@@ -37,19 +37,19 @@
 <br/>
 
 <a href="https://github.com/barismalkoc">
-  <img  style="padding:6px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img  style="padding:16px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://instagram.com/barisbmalkoc/">
-  <img   style="padding:6px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  <img   style="padding:16px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-berke-malko%C3%A7-4b18841b3/">
-  <img  style="padding:6px" width="35px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img  style="padding:16px" width="35px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <a href="https://mail.google.com/">
-  <img  style="padding:6px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <img  style="padding:16px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
 
