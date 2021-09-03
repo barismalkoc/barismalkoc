@@ -48,6 +48,12 @@
   <img  style="padding:6px" width="35px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
+<a href="https://mail.google.com/">
+  <img  style="padding:6px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+
+
+
 ## 👑 Github Activity :
 
 <a href="https://github.com/barismalkoc">
@@ -55,6 +61,6 @@
   </a>
 
 <a href="https://github.com/barismalkoc">
- <img   align="right" src="https://github-readme-stats.vercel.app/api?username=barismalkoc&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img   align="right" src="https://github-readme-stats.vercel.app/api?username=barismalkoc&show_icons=true&theme=tokyonight&line_height=27" alt="BarisBerkeMALKOC's github stats"/>
 </a>
 
