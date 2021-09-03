@@ -8,8 +8,6 @@
 
 </div>
 
-<div>
-
 ## 🤵 About Me:
 
 - 📖 I am a computer engineer. I was born in Sinop, Turkey. I'm 20 years old. I like to learn new things and notice things I don't know.
@@ -20,16 +18,14 @@
 - 🎤 You can talk to me about books, music and movies.
 - ⚡ Fun Fact : Music , Run , Basketball ...
 
-</div>
-
 ## 🤓 Languages :
 
 <br/>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="35" style="padding:6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="35" style="padding:6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" style="padding:6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" style="padding:6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" style="padding:6px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <br/>
 
@@ -48,3 +44,4 @@
 <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-berke-malko%C3%A7-4b18841b3/">
   <img align="left" style="padding:6px" width="35px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
+
